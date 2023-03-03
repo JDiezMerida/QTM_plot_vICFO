@@ -1,0 +1,43 @@
+data_directory		
+template_directory	C:/Users/jdiez/QTM_plot_vICFO/QTM_templates
+customized_directory
+left	700
+top	180
+width	1000
+height	60	
+x_axis	KeithRdcv
+y_axis	sr1x
+z_axis	sr1x
+labels	False
+x_label	R in Ohms
+y_label	R in Ohms
+z_label	R in Ohms
+x_conversion	1
+y_conversion	1
+z_conversion	1
+cmap	RdBu 
+title	
+extent	False
+conductance	False
+eh	False
+offset	0
+x_axis2	KeithRdcv
+y_axis2	sr1x
+z_axis2	sr1x
+labels2	False
+x_label2	R in Ohms
+y_label2	R in Ohms
+z_label2	R in Ohms
+x_conversion2	1
+y_conversion2	10
+z_conversion2	1
+cmap2	RdBu  
+title2	
+extent2	False
+conductance2	False
+eh2	False
+offset_hor	0
+offset_ver	0
+verline	0
+horline	0
+legend	False

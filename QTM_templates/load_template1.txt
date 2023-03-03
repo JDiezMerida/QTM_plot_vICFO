@@ -1,0 +1,39 @@
+data_directory	C:/Users/DiezMeridaJ/data/Triton
+template_directory	C:/Users/DiezMeridaJ/.jupyter/QTM_templates
+customized_directory	C:/Users/DiezMeridaJ/.jupyter/QTM_customsaved
+x_axis	KeithRdcv
+y_axis	sr1x
+z_axis	sr1x
+labels	False
+x_label	R in Ohms
+y_label	R in Ohms
+z_label	R in Ohms
+x_conversion	3
+y_conversion	5
+z_conversion	1
+cmap	viridis 
+title	
+extent	False
+conductance	False
+eh	False
+offset	0
+x_axis2	KeithRdcv
+y_axis2	sr1x
+z_axis2	sr1x
+labels2	False
+x_label2	R in Ohms
+y_label2	R in Ohms
+z_label2	R in Ohms
+x_conversion2	1
+y_conversion2	10
+z_conversion2	1
+cmap2	RdBu  
+title2	
+extent2	False
+conductance2	False
+eh2	False
+dimension	2
+offset_hor		0
+offset_ver		0
+verline	0
+horline	0

@@ -1,0 +1,28 @@
+dataset	C:/Users/jdiez/data/2020 July/TBGTB5/TBGTB5_4 probe_13_7_16_17_2K_bias10nA_sen200uV_tconst300ms_mBVbg_2.txt
+x_axis	backgateSourcevoltage
+y_axis	MagnetFieldsetpoint
+z_axis	VxxR
+x_label	Gate $[V]$
+y_label	Field $[T]$
+z_label	dV/dI $[\Omega]$
+conversion_x	1
+conversion_y	1
+conversion_z	100000
+cmap	RdBu_r
+title	TBGTB5_4 probe_13_7_16_17_2K_bias10nA_sen200uV_tconst300ms_mBVbg_2.txt backgateSourcevoltage profile
+extent	True
+pin	True
+conductance	False
+eh	False
+offset	1.0
+line0	99
+line1	90
+line2	80
+line3	70
+line4	60
+line5	50
+line6	40
+line7	30
+line8	20
+line9	10
+line10	0
