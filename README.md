@@ -1,6 +1,6 @@
 # QTM_plot_vICFO
 
-The original code was developed in collaboration with Daan Wielens in order to create a measurement and plotting GUI for the QTM group in the University of Twente. The project is in Gitlab in https://gitlab.com/DaanWielens/QTMToolbox
+The original code was developed in collaboration with Daan Wielens in order to create a measurement and plotting GUI for the QTM group in the University of Twente. The project is in Gitlab in https://gitlab.com/DaanWielens/QTMToolbox. The code in here is just the plotting GUI, which has been modified to include other types of data. 
 
 The program launches a GUI which can be used to plot basic lineplots or 2D maps. There are two version QTM and vICFO. The difference is the way the original data was made. In both cases the data has to be in a .txt or .csv 
 format with the right number of columns. The details of the data structured can be seen in the
