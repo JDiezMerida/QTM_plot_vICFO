@@ -32,4 +32,6 @@ button on the GUI. Then by loading a template this would be given to the graph s
 could be useful if for different data types different colormaps are prefered for example. 
 
 - Then some png files also come in this folder. These are useful for the error messages. They 
-have to be stored in QTM_images 
+have to be stored in QTM_images
+
+- LDQM data examples gives example of a linescan and a 2D map of which could be used for plotting in the GUI
